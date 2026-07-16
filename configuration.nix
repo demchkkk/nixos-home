@@ -134,8 +134,7 @@
     kubectl
     kubernetes-helm
     k9s
-    lens
-
+    # lens  # <- ЗАКОММЕНТИРОВАНО (не скачивается в РФ)
 
     ####################
     ## VPN
@@ -158,14 +157,11 @@
     okular
     gwenview
 
-
-
     ####################
-    ## Desktop apps#####
-    ##########
+    ## Desktop apps
+    ####################
 
     telegram-desktop
-
 
     ####################
     ## Utilities
